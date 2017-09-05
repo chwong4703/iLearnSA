@@ -21,12 +21,12 @@ Functional Requirements:
 
 
 Non-Functional Requirements:
-1.Written in JavaFX in Java language. 
-2.	
-3.	
-4.	
-5.	
-6.	
+1.  Written in JavaFX in Java language. 
+2.	Back-up: Return and restore data to its pervious state due to cyber attack or implemetation failure 
+3.	Documentation: Illustrate how to use the iLearn system
+4.	Data safety: Protect the privacy of users' personal information, ID, password, and other important documentation
+5.	Customer Service/ Online help 
+6.	Report when a system is compromised
 7.	
 8.	
 
